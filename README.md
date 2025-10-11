@@ -3,6 +3,10 @@
 ![GitHub stars](https://img.shields.io/github/stars/chFardeelAzhar/dsa-with-kotlin)
 ![GitHub issues](https://img.shields.io/github/issues/chFardeelAzhar/dsa-with-kotlin)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/chFardeelAzhar/dsa-with-kotlin)
+![GitHub forks](https://img.shields.io/github/forks/chFardeelAzhar/dsa-with-kotlin)
+![GitHub last commit](https://img.shields.io/github/last-commit/chFardeelAzhar/dsa-with-kotlin)
+![GitHub license](https://img.shields.io/github/license/chFardeelAzhar/dsa-with-kotlin)
+
 
 Welcome to my **Logic Building Journey**! 👨‍💻  
 As an Android Developer, I realized that writing UI is important — but **thinking logically is the real power** behind solving real-world problems in code.
