@@ -1,8 +1,8 @@
 # 🧠 100 Logic Building Problems in Kotlin
 
-![GitHub stars](https://img.shields.io/github/stars/ChFardeelAzhar/100-Logic-Problems)
-![GitHub issues](https://img.shields.io/github/issues/ChFardeelAzhar/100-Logic-Problems)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ChFardeelAzhar/100-Logic-Problems)
+![GitHub stars](https://img.shields.io/github/stars/chFardeelAzhar/dsa-with-kotlin)
+![GitHub issues](https://img.shields.io/github/issues/chFardeelAzhar/dsa-with-kotlin)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/chFardeelAzhar/dsa-with-kotlin)
 
 Welcome to my **Logic Building Journey**! 👨‍💻  
 As an Android Developer, I realized that writing UI is important — but **thinking logically is the real power** behind solving real-world problems in code.
