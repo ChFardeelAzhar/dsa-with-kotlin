@@ -9,8 +9,8 @@ fun main (){
     val primeList = mutableListOf<Int>()
 
 
-    // Check if a single number is prime or not.
-    // isPrimeNumber(11)
+//     Check if a single number is prime or not.
+//     isPrimeNumber(16)
 
 
 

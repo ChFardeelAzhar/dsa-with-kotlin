@@ -3,10 +3,10 @@ package `01_MathLogic`
 fun main() {
 
     // Find a number is palindrome or Not
-    // method1()
+     method1()
     // method2(121)
 
-    findPalindrome(5678)
+//    findPalindrome(5678)
 }
 
 
